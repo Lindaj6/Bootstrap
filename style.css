@@ -1,0 +1,6 @@
+.jumbotron{
+background-image: url("self.jpg");
+background-repeat: no-repeat;
+background-size:contain;
+background-color: rgb(145, 141, 141);
+}
