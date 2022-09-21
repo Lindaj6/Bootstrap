@@ -2,5 +2,9 @@
 background-image: url("self.jpg");
 background-repeat: no-repeat;
 background-size:contain;
-background-color: rgb(145, 141, 141);
+background-color: rgb(185, 151, 190);
+color:rgb(214, 230, 217);
+}
+.nav{
+    background-color: rgb(222, 204, 226);
 }
