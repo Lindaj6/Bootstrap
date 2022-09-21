@@ -5,6 +5,9 @@ background-size:contain;
 background-color: rgb(185, 151, 190);
 color:rgb(214, 230, 217);
 }
+.h2{
+    font-size: medium;
+}
 .nav{
     background-color: rgb(222, 204, 226);
 }
